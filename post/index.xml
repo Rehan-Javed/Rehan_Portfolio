@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Rehan Javed</title>
+    <link>https://rehan-javed.github.io/Rehan_Portfolio/post/</link>
+    <description>Recent content in Blog on Rehan Javed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://rehan-javed.github.io/Rehan_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is common between Stroke and Fraud ? </title>
+      <link>https://rehan-javed.github.io/Rehan_Portfolio/post/blog-1/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rehan-javed.github.io/Rehan_Portfolio/post/blog-1/</guid>
+      <description>The stroke prediction and fraud detection in the data science are similar because there are very few positive occurrences in the dataset. This is also called imbalanced data.
+I would go through step by step process below to make things simple.
+  After doing the initial exploratory analysis; it can be seen that there are 201 missing values in the bmi column. This was filled using the median values.</description>
+    </item>
+    
+  </channel>
+</rss>
